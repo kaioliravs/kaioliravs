@@ -7,12 +7,8 @@ My name is Kaio da Silva Lira, im 17 years old and i am a technology lover, I ha
 
 Programming languages
 
-<img align="left" width="50px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" width="50px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" width="50px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts&theme=dark)](https://skillicons.dev)
 
-<br>
-<br />
 Frameworks and lib's
 
 [![My Skills](https://skillicons.dev/icons?i=react,svelte,jquery,styledcomponents,nodejs&theme=dark)](https://skillicons.dev)
