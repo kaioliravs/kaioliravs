@@ -14,3 +14,5 @@ Frameworks and lib's
 [![My Skills](https://skillicons.dev/icons?i=react,svelte,jquery,styledcomponents,nodejs&theme=dark)](https://skillicons.dev)
 
 ## Statistics 📊
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioliravs&show_icons=true)
