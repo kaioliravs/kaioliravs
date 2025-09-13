@@ -12,7 +12,7 @@ Programming languages
 <img align="left" width="50px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 <br>
-<br/>
+<br />
 Frameworks and lib's
 
 [![My Skills](https://skillicons.dev/icons?i=react,svelte,jquery,styledcomponents,nodejs&theme=dark)](https://skillicons.dev)
