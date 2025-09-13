@@ -16,3 +16,7 @@ Frameworks and lib's
 Databases SQL/NoSQL
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
+
+Programms and tool's
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma&theme=light)](https://skillicons.dev)
