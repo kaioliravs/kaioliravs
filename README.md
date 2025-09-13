@@ -7,7 +7,7 @@ My name is Kaio da Silva Lira, im 17 years old and i am a technology lover, I ha
 
 Programming languages
 
-<img align="left" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />         
+<img align="left" width="40px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />         
 <br>
 <br/>
 Frameworks and lib's
