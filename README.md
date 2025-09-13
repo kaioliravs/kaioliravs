@@ -7,4 +7,4 @@ My name is Kaio da Silva Lira, im 17 years old and i am a technology lover, I ha
 
 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts&theme=dark)](https://skillicons.dev)
