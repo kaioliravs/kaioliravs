@@ -10,6 +10,7 @@ Programming languages
 <img align="left" width="50px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" width="50px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="50px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
 <br>
 <br/>
 Frameworks and lib's
