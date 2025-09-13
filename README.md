@@ -15,4 +15,4 @@ Frameworks and lib's
 
 ## Statistics 📊
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioliravs&show_icons=true&theme=github_dark_dimmed)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioliravs&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)
