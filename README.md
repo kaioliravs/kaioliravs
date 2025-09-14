@@ -11,7 +11,7 @@ Programming languages
 
 Frameworks and lib's
 
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,jquery,styledcomponents,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,svelte,jquery,styledcomponents,tailwind,nodejs&theme=dark)](https://skillicons.dev)
 
 ## Statistics 📊
 
