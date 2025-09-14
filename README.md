@@ -15,5 +15,6 @@ Frameworks and lib's
 
 ## Statistics 📊
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioliravs&show_icons=true&theme=github_dark_dimmed&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioliravs&layout=compact&theme=github_dark_dimmed)
+<img align="left" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=kaioliravs&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" />
